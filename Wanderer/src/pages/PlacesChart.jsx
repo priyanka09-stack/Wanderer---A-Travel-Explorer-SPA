@@ -24,7 +24,7 @@ function PlacesChart() {
 
   return (
     <div className={`w-full h-[300px] p-4 rounded-xl ${dark ? "bg-gray-900" : "bg-blue-100"}`}>
-      <h2 className="text-center font-bold mb-2">Places Breakdown 📊</h2>
+      <h2 className="text-center font-bold mb-2">Places Breakdown </h2>
 
       <ResponsiveContainer width="100%" height="100%">
         <PieChart>
