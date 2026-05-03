@@ -94,7 +94,7 @@ function Home() {
         
         
         <form onSubmit={handleSubmit}className="flex flex-col md:flex-row gap-3 items-center justify-center my-6">
-            <input type="text"placeholder="Search City"value={city} onChange={(e)=>setcity(e.target.value)}className="w-full md:w-1/3 px-4 py-2 rounded-xl border shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-400"/>
+            <input type="text"placeholder="Search City"value={city} onChange={(e)=>setcity(e.target.value)}className="w-full md:w-1/3 px-4 py-2 rounded-xl border shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-400 text-black  "/>
             <button type="submit"className="bg-blue-500 hover:bg-blue-600 text-white px-6 py-2 rounded-xl transition-all" >Search</button>
 
         </form>
