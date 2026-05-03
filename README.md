@@ -5,10 +5,10 @@ Wanderer is a React-based travel discovery web app that helps users explore famo
 
 ## Project Screenshots
 
-![alt text](ss1.png)
-![alt text](ss2.png)
-![alt text](ss3.png)
-![alt text](ss4.png)
+![alt text](ss_1.png)
+![alt text](ss_2.png)
+![alt text](ss_3.png)
+![alt text](ss_4.png)
 
 
 ## Features
