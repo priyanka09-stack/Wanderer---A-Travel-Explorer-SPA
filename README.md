@@ -1,6 +1,6 @@
 "# Wanderer---A-Travel-Explorer-SPA" 
 
-anderer is a React-based travel discovery web app that helps users explore famous places (museums, parks, monuments, etc.) in different cities using real-time API data. It includes features like filtering, sorting, pagination, favorites, lazy loading, and theme switching.
+Wanderer is a React-based travel discovery web app that helps users explore famous places (museums, parks, monuments, etc.) in different cities using real-time API data. It includes features like filtering, sorting, pagination, favorites, lazy loading, and theme switching.
 
 
 #Project Screenshots
