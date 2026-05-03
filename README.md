@@ -3,16 +3,11 @@
 Wanderer is a React-based travel discovery web app that helps users explore famous places (museums, parks, monuments, etc.) in different cities using real-time API data. It includes features like filtering, sorting, pagination, favorites, lazy loading, and theme switching.
 
 
-#Project Screenshots
+## Project Screenshots
 
 ![alt text](ss1.png)
 ![alt text](ss2.png)
 
-
-
-
-
-## Project Screenshots
 
 
 ## Features
